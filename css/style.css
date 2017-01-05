@@ -1,0 +1,11 @@
+.itemTextPart {
+	display:inline-block;
+}
+
+.itemButtonPart {
+	float:right;
+}
+
+.title {
+	font-size:1.2rem;
+}
